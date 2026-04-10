@@ -38,12 +38,12 @@ The engine simulates both small vacuum systems and bulk water using Periodic Bou
 
 ## What we validated
 
-- ✅ Energy conservation in NVE ensemble
-- ✅ Local and global truncation error analysis of Velocity Verlet (O(Δt³) and O(Δt²))
-- ✅ Oxygen-Oxygen Radial Distribution Function (RDF) — first peak at ~2.8 Å with PME
-- ✅ Velocity Autocorrelation Function (VACF) and simulated IR vibrational spectrum
-- ✅ Symplectic (phase space volume preserving) properties of the integrator
-- ✅ Rigid water model with SHAKE constraints (optional task)
+- Energy conservation in NVE ensemble
+- Local and global truncation error analysis of Velocity Verlet (O(Δt³) and O(Δt²))
+- Oxygen-Oxygen Radial Distribution Function (RDF) — first peak at ~2.8 Å with PME
+- Velocity Autocorrelation Function (VACF) and simulated IR vibrational spectrum
+- Symplectic (phase space volume preserving) properties of the integrator
+- Rigid water model with SHAKE constraints (optional task)
 
 -----
 
